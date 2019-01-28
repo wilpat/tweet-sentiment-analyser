@@ -8,7 +8,7 @@ This returns a polarity which is a probability that ranges from -1 to 1(Very bad
 
 The result would be stored in a csv file
 
-# Requiremtent
+# Requirements
 Please install tweeepy, textblob, matplotlib(For visualiation of results)
 
 Run python -m textblob.download_corpora
